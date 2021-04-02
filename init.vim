@@ -7,4 +7,4 @@ source $HOME/.config/nvim/themes/gruvbox.vim "theme
 source $HOME/.config/nvim/plug-config/coc.vim
 source $HOME/.config/nvim/plug-config/coc_snippets.vim
 source $HOME/.config/nvim/plug-config/doge.vim
-"source $HOME/.config/nvim/plug-config/coc_explorer.vim
+""source $HOME/.config/nvim/plug-config/coc_explorer.vim
